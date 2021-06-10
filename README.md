@@ -1,3 +1,40 @@
+# mobile-native-icons-cheatsheet
+This cheat sheet is to find native icon, mainly for iOS and Android at once.
+Including SF Symbol, Material Icons, also Font Awesome 5.0 Free.
+Here default using **FILLED** icon
+
+## Table of Contents
+- [Communications](#communications)
+- [Weather](#weather)
+- [Object & Tools](#object--tools)
+- [Devices](#devices)
+- [Gaming](#gaming)
+- [Connectivity](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+- [](#)
+
+### Communications
+|  | SFSymbol | | | Material | | | Font Awesome | | |
+| - | :-: | - | - | :-: | - | - | :-: | - | - |
+| name | ico | img | code | ico | img | code | ico | img | code |
+| Microphone | 􀊱 | <img alt='mic.fill' src='glyphs/mic.fill.png'> | ```mic.fill``` |  | <img alt='' src='glyphs/.png'> | ```mic``` |  | <img alt='' src='glyphs/.png'> | ```microphone``` |
+|  |  | <img alt='' src='glyphs/.png'> | ```a``` |  | <img alt='' src='glyphs/.png'> | ```a``` |  | <img alt='' src='glyphs/.png'> | ```a``` |
+
+[Back To Top](#table-of-contents)
+
+## Others
 | Glyph | Name | Glyph | Name | Glyph | Name | Glyph | Name |
 |----|-------|----|-------|----|-------|----|-------|
 | <img alt='square.and.arrow.up' src='glyphs/square.and.arrow.up.png'> | square.and.arrow.up | <img alt='square.and.arrow.up.fill' src='glyphs/square.and.arrow.up.fill.png'> | square.and.arrow.up.fill | <img alt='square.and.arrow.down' src='glyphs/square.and.arrow.down.png'> | square.and.arrow.down | <img alt='square.and.arrow.down.fill' src='glyphs/square.and.arrow.down.fill.png'> | square.and.arrow.down.fill | <img alt='square.and.arrow.up.on.square' src='glyphs/square.and.arrow.up.on.square.png'> | square.and.arrow.up.on.square |
